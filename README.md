@@ -1,4 +1,4 @@
-# Alexander Morgunov | Senior .NET Engineer
+# Alexander Morgunov | Senior Software Architect & Founder
 
 Senior .NET Engineer focused on designing and evolving complex, long-lived software systems. Advocate for the **"clean code, clean thoughts, clean phrases"** philosophy.
 
@@ -6,11 +6,11 @@ Specializing in technical debt management within mature codebases (10+ years) an
 
 ---
 
-### 🏗️ Engineering Focus
-- **System Architecture:** Designing Modular Monoliths, complex domain modeling, and building reliable distributed systems.
-- **Software Evolution:** Modernizing legacy systems, migrating domain logic into shared libraries, and enhancing codebase maintainability.
-- **Performance Engineering:** Optimizing high-load data pipelines, advanced multithreading (TPL), and performance profiling (Benchmark.NET).
-- **Desktop & Backend:** Deep expertise in WPF (MVVM) and modern ASP.NET Core stack.
+### 🏗️ Architectural Vision & Leadership
+* **Ecosystem Design:** Architecting multi-tenant platforms and decentralized logistics networks.
+* **Domain Excellence:** Expert in **DDD** and **Clean Architecture** for solving mission-critical business challenges.
+* **Software Evolution:** Strategic modernization of mature (10+ years) systems and technical debt management.
+* **High-Performance Engineering:** Optimizing distributed systems and high-concurrency data pipelines.
 
 ---
 
@@ -28,7 +28,7 @@ Specializing in technical debt management within mature codebases (10+ years) an
 
 ### 🛠️ Tech Stack
 - **Languages:** C#, XAML, SQL, C/C++ (Basics).
-- **Frameworks:** .NET 8, ASP.NET Core, WPF, .NET Framework 4.x.
+- **Frameworks:** .NET, ASP.NET Core, WPF, .NET Framework 4.x., EF Core.
 - **Tools:** PostgreSQL, Docker, AWS (S3), GitHub Actions, GitLab CI/CD.
 
 ---
