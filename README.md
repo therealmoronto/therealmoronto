@@ -29,7 +29,7 @@ Specializing in technical debt management within mature codebases (10+ years) an
 ### 🛠️ Tech Stack
 - **Languages:** C#, XAML, SQL, C/C++ (Basics).
 - **Frameworks:** .NET, ASP.NET Core, WPF, .NET Framework 4.x., EF Core.
-- **Tools:** PostgreSQL, Docker, AWS (S3), GitHub Actions, GitLab CI/CD.
+- **Tools:** .NET Aspire, PostgreSQL, Redis, Apache Kafka, Docker, AWS (S3), GitHub Actions, GitLab CI/CD.
 
 ---
 
