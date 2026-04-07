@@ -15,7 +15,7 @@ Specializing in technical debt management within mature codebases (10+ years) an
 ---
 
 ### 🚀 Featured Project
-**[Nimbo](https://github.com/therealmoronto/nimbo-wms)** — Cloud-ready Warehouse Management System.
+**[Nimbo](https://github.com/therealmoronto/nimbo-wms)** — Decentralizing logistics for SME. A high-integrity warehouse ecosystem featuring a Double-Entry Stock Ledger.
 *This project serves as my architectural "gold standard." It demonstrates the practical application of DDD, Clean Architecture, MediatR, and Entity Framework Core in a complex domain.*
 
 ---
